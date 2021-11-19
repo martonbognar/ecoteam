@@ -15,7 +15,7 @@ We want to reconsider the current cafeteria supplies and substitute them with fa
 * Cow milk is not as healthy as you think and is not environmental-friendly (TODO: add sources by Vera,JT?). For this reason, we would like to provide an alternative plant-based milk
 * Exchanging the tea, coffee and sugar for a fair trade kind
 * We want to provide fresh fruit on a weekly basis. The [veggie bag](http://www.greenofficeforkuleuven.be/project/veggie-bag/) initiative of the green office delivers a suprise package of fruit every monday and support local farmers and sustainability. 
-* 
+
 On the topic of food, we also want to encourage the use of reusable kitchenware. If you want to find out more about preventing food waste and sustainable food, check out the [Green Office's website](http://www.greenofficeforkuleuven.be/project/sustainable-foods/)
 ## Promoting the efficent use of energy at out department
 * Take the stairs instead of using the elevator, it will both benefit the energy consumption of the building and your health.
