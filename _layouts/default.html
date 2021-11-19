@@ -1,9 +1,17 @@
 <!doctype html>
 <html>
-    <head>
-        <link rel="stylesheet" href="main.css" type="text/css">
-    </head>
-    <body>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+    </style>
+    <link rel="stylesheet" href="{{ 'main.css' | relative_url }}" type="text/css">
+</head>
+
+<body>
+    <section id='main'>
         {{ content }}
-    </body>
+    </section>
+</body>
+
 </html>

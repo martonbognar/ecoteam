@@ -1,3 +1,26 @@
 body {
-    background-color: bisque;
+    background-color: papayawhip;
+    font-family: 'Shippori Antique', sans-serif;
+    text-align: center;
+}
+
+#main {
+    margin: auto;
+    text-align: left;
+    display: inline-block;
+}
+
+p {
+    max-width: 80ch;
+    text-align: justify;
+}
+
+.author {
+    color: darkgray;
+    border-top: 1px solid darkgray;
+}
+
+a, a:visited {
+    color: teal;
+    text-decoration: none;
 }
